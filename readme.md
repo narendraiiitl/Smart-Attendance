@@ -1,5 +1,12 @@
 # SMART ATTENDANCE PORTAL
 A smart attendance Portal based on **Node.js**  with custom **Admin and Student Dashboard.**
+ ## Images of the WebApp:
+   * ![key.js](./imp1.png)
+   * ![key.js](./imp2.png)
+   * ![key.js](./imp4.png)
+   * ![key.js](./imp6.png)
+   * ![key.js](./imp3.png)
+
 ## Instructions for Setup:
 1. Download the zip file and extract it to a New Folder.
 2. Open terminal and navigate to the folder.
