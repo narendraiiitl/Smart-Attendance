@@ -8,9 +8,9 @@ A smart attendance Portal based on **Node.js** with custom **Admin and Student D
 
 * ![key.js](./imp6.png)
 * ![key.js](./imp3.png)
-
-* ![key.js](./imp2.png)
 * ![key.js](./imp1.png)
+* ![key.js](./imp2.png)
+
 
 ## Instructions for Setup:
 
