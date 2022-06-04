@@ -5,10 +5,11 @@ A smart attendance Portal based on **Node.js** with custom **Admin and Student D
 ## Images of the WebApp:
 
 - ![key.js](./imp4.png)
-* ![key.js](./imp2.png)
-* ![key.js](./imp3.png)
-* ![key.js](./imp6.png)
 
+* ![key.js](./imp6.png)
+* ![key.js](./imp3.png)
+
+* ![key.js](./imp2.png)
 * ![key.js](./imp1.png)
 
 ## Instructions for Setup:
